@@ -26,9 +26,6 @@ A custom dataset (`dataset.csv`) with 100 labeled sentences, 25 per class:
 4. **Model Evaluation** – Accuracy, Precision, Recall, F1-score, Confusion Matrix
 5. **Prediction System** – CLI-based single and batch prediction with confidence scores
 
-## 📈 Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
 ## ▶️ How to Run
 1. Install dependencies:
 ```bash
