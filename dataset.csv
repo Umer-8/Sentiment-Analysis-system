@@ -1,0 +1,101 @@
+text,sentiment
+"This is amazing!",Positive
+"I absolutely love this product",Positive
+"Best purchase I've made all year",Positive
+"The service was excellent and fast",Positive
+"I'm so happy with the results",Positive
+"Great quality and worth the price",Positive
+"The staff were incredibly friendly",Positive
+"This exceeded all my expectations",Positive
+"I would highly recommend this to everyone",Positive
+"Fantastic experience from start to finish",Positive
+"The app works perfectly every time",Positive
+"I'm impressed with the build quality",Positive
+"Such a wonderful and smooth experience",Positive
+"The food was delicious and fresh",Positive
+"Everything arrived on time and in great condition",Positive
+"I love how easy it is to use",Positive
+"This made my day so much better",Positive
+"The design is beautiful and modern",Positive
+"Customer support solved my issue instantly",Positive
+"I can't stop recommending this app to friends",Positive
+"The performance is super smooth",Positive
+"This is exactly what I needed",Positive
+"Amazing value for money",Positive
+"The battery life is incredible",Positive
+"I had a great time using this",Positive
+"Worst experience ever",Negative
+"I hate how slow this is",Negative
+"The quality is terrible",Negative
+"This was a complete waste of money",Negative
+"I'm extremely disappointed with the service",Negative
+"The app keeps crashing constantly",Negative
+"Customer support was rude and unhelpful",Negative
+"This product broke after one use",Negative
+"I regret buying this",Negative
+"The food was cold and tasteless",Negative
+"Nothing about this works properly",Negative
+"The delivery was late and damaged",Negative
+"This is the worst app I've ever used",Negative
+"I'm furious about how this was handled",Negative
+"The instructions were confusing and useless",Negative
+"This is overpriced and low quality",Negative
+"I want a refund immediately",Negative
+"The battery dies within an hour",Negative
+"This experience was frustrating from start to end",Negative
+"The screen cracked on the first day",Negative
+"Terrible customer service, never again",Negative
+"The interface is buggy and unresponsive",Negative
+"I can't believe how bad this is",Negative
+"This was a huge disappointment",Negative
+"The product arrived broken",Negative
+"It's okay, nothing special",Neutral
+"The product works as described",Neutral
+"I received the package today",Neutral
+"The meeting is scheduled for 3pm",Neutral
+"This is a standard laptop with average specs",Neutral
+"The store opens at 9am",Neutral
+"It does what it's supposed to do",Neutral
+"The color is gray",Neutral
+"I used the app for an hour",Neutral
+"The report contains five sections",Neutral
+"This is similar to other products in its category",Neutral
+"The weather today is cloudy",Neutral
+"It took about ten minutes to set up",Neutral
+"The manual explains the basic functions",Neutral
+"This costs around fifty dollars",Neutral
+"The room has two windows",Neutral
+"It's an average phone with decent features",Neutral
+"The update was installed successfully",Neutral
+"I went to the store and bought groceries",Neutral
+"The presentation lasted one hour",Neutral
+"This is a normal day at work",Neutral
+"The package contains three items",Neutral
+"It functions adequately for basic tasks",Neutral
+"The website has a simple layout",Neutral
+"This is neither good nor bad",Neutral
+"I love the design but hate the performance",Mixed
+"The food was great but the service was slow",Mixed
+"I like the features but the app is very slow",Mixed
+"The screen is beautiful but the battery life is poor",Mixed
+"Great price, but the quality could be better",Mixed
+"The staff were friendly but the wait time was long",Mixed
+"I enjoyed the movie, though the ending was disappointing",Mixed
+"The camera is excellent but the software is buggy",Mixed
+"Good product overall, but customer support needs improvement",Mixed
+"The location is convenient, but the rooms are outdated",Mixed
+"I appreciate the speed, but the design feels cheap",Mixed
+"The interface looks nice but is confusing to navigate",Mixed
+"The price is fair, although the build quality feels weak",Mixed
+"Loved the taste, but the portion size was too small",Mixed
+"The laptop is fast, but it overheats quickly",Mixed
+"Good customer service, but the product itself is mediocre",Mixed
+"The app is useful but drains the battery fast",Mixed
+"Nice features, but the price is too high",Mixed
+"The hotel was clean, but the staff seemed indifferent",Mixed
+"I like the concept, but the execution falls short",Mixed
+"The sound quality is great, but the design is bulky",Mixed
+"Solid performance, though the price feels unjustified",Mixed
+"The delivery was fast, but the packaging was damaged",Mixed
+"The book was informative, but the writing was dry",Mixed
+"Great idea, but poorly implemented",Mixed
